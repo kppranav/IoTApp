@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/light_bulb_icon"
+            android:title="Light" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/fan_black_md"
+            android:title="Fan" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/open_door"
+            android:title="Doors" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/fridge"
+            android:title="Fridge" />
+
+    </group>
+
+
+</menu>
